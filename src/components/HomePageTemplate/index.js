@@ -18,15 +18,16 @@ const HomePageTemplate = ({
       <title>{meta_title}</title>
       <meta name='description' content={meta_description} />
     </Helmet>
-    <section className='hero is-primary is-bold is-medium'>
+    <section className='hero bg-hero is-bold is-medium'>
       <div className='hero-body'>
         <div className='container'>
           <div className='columns'>
-            <div className='column is-10 is-offset-1'>
+            <div className='column is-12'>
               <div className='section'>
-                <h1 className='title'>
+                <h1 className='title primary-text has-text-centered'>
                   {title}
                 </h1>
+                <h2 className='has-text-centered'>Software Developer</h2>
               </div>
             </div>
           </div>
