@@ -1,7 +1,7 @@
 ---
 templateKey: home-page
 title: Ibrahim Adeniyi
-heading: Full Stack Software Developer && Technical Writer
+heading: "Full Stack Software Developer && Technical Writer "
 description: "Christopher Nolan once said, \"People want to see something that
   shows them you can do what you say\". I guess this is the tip of that iceberg
   I'm promising. I've been hacking together code snippet for over two years now.
