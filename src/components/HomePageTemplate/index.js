@@ -27,7 +27,7 @@ const HomePageTemplate = ({
                 <h1 className='title primary-text has-text-centered'>
                   {title}
                 </h1>
-                <h2 className='has-text-centered'>Software Developer</h2>
+                <h1 className='has-text-centered'>Software Developer</h1>
               </div>
             </div>
           </div>
