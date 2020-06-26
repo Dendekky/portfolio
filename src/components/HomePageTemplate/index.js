@@ -27,7 +27,7 @@ const HomePageTemplate = ({
                 <h1 className='title primary-text has-text-centered'>
                   {title}
                 </h1>
-                <h2 className='has-text-centered'>Software Developer</h2>
+                <h1 className='has-text-centered is-size-4'>Software Developer</h1>
               </div>
             </div>
           </div>
@@ -47,9 +47,9 @@ const HomePageTemplate = ({
                   </h3>
                   <p>{description}</p>
                 </div>
-                <Offerings gridItems={offerings.blurbs} />
+                {/* <Offerings gridItems={offerings.blurbs} />
                 <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
-                <Testimonials testimonials={testimonials} />
+                <Testimonials testimonials={testimonials} /> */}
               </div>
             </div>
           </div>

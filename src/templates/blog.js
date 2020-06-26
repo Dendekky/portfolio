@@ -45,7 +45,7 @@ export default class BlogPage extends Component {
             {JSON.stringify(websiteSchemaOrgJSONLD)}
           </script>
         </Helmet>
-        <section className='hero is-primary is-bold'>
+        {/* <section className='hero is-primary is-bold'>
           <div className='hero-body'>
             <div className='container'>
               <div className='columns'>
@@ -59,7 +59,7 @@ export default class BlogPage extends Component {
               </div>
             </div>
           </div>
-        </section>
+        </section> */}
         <section className='section'>
           <PostCard posts={group} />
           <section className='section'>
