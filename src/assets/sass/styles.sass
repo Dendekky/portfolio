@@ -32,6 +32,50 @@ nav
   color: rgb(128, 178, 237) !important
   // color: red
 
+.card
+  width: 45ch;
+  height: 45ch;
+  background: grey;
+  border-radius: 5px;
+  background-image: url(https://res.cloudinary.com/dendekky/image/upload/c_scale,h_1499,w_2095/v1593185028/portfolio/fresh-man-abbey_hfethc.jpg);
+  background-size: cover;
+  background-position: center center;
+  box-shadow: 0px 10px 30px -5px rgba(0, 0, 0, 0.3);
+  transition: box-shadow 0.5s;
+  will-change: transform;
+  border: 15px solid white;
+
+.card:hover
+  box-shadow: 0px 30px 100px -10px rgba(0, 0, 0, 0.4);
+
+.trails-main 
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+
+.trails-text
+  position: relative;
+  // width: 100%;
+  // height: 80px;
+  line-height: 80px;
+  // color: palevioletred;
+  // font-size: 5em;
+  // font-weight: 800;
+  // text-transform: uppercase;
+  will-change: transform, opacity;
+  overflow: hidden;
+
+
+.trails-text > div
+  overflow: hidden;
+
+
 .content .taglist
   list-style: none
   margin-bottom: 0
