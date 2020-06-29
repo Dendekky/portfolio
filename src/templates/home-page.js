@@ -4,6 +4,7 @@ import { graphql } from 'gatsby'
 import HomePageTemplate from '../components/HomePageTemplate'
 import Layout from '../components/Layout'
 
+
 const HomePage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
 
