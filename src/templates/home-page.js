@@ -41,17 +41,8 @@ export const pageQuery = graphql`
         meta_description
         heading
         description
-        // offerings {
-        //   blurbs {
-        //     image
-        //     text
-        //   }
-        // }
-        // testimonials {
-        //   author
-        //   quote
-        // }
       }
     }
   }
 `
+
