@@ -1,12 +1,8 @@
 ---
 templateKey: about-page
 title: About Us
-meta_title: About Us | Gatsby Starter Business
-meta_description: >-
-  Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
-  ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
-  venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
-  consectetur purus sit amet fermentum.
+meta_title: About Us | Dendekky
+meta_description: Why do we fall? So we can learn to pick ourselves back up
 ---
 ## Lorem ipsum dolor sit amet, consectetuer
 
