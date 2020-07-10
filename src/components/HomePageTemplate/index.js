@@ -68,7 +68,7 @@ const HomePageTemplate = ({
                 <h3 className='has-text-weight-semibold is-size-2 has-text-white'>
                   {heading}
                 </h3>
-                <div className='trails-main' onClick={() => setToggle(state => !state)}>
+                {/* <div className='trails-main' onClick={() => setToggle(state => !state)}>
                   <div>
                     {trail.map(({ x, height, ...rest }, index) => (
                       <animated.div
@@ -79,13 +79,13 @@ const HomePageTemplate = ({
                       </animated.div>
                     ))}
                   </div>
-                </div>
-                {/* <div>
+                </div> */}
+                <div>
                   <h3 className='has-text-weight-semibold is-size-2 has-text-white'>
                     {heading}
                   </h3>
                   <p className='has-text-white'>{description}</p>
-                </div> */}
+                </div>
                 {/* <Offerings gridItems={offerings.blurbs} />
                 <h2 className='has-text-weight-semibold is-size-2'>Testimonials</h2>
                 <Testimonials testimonials={testimonials} /> */}
