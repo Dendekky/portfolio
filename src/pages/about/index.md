@@ -14,7 +14,7 @@ I love interacting with anything and everything code. I guess you could call me 
 
 Building a career in tech was born out of my passion for creating solutions to seemingly complex problems and finding smart shortcuts to cracking complicated puzzles. The feeling that comes with exclaiming “Eureka!” gives me unexplainable satisfaction.
 
-I am a Fullstack developer meaning, I’ve got my clients with wonderful servers. 
+I am a Fullstack developer meaning, I’ve got my clients covered with wonderful servers. 
 
 
 
