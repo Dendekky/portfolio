@@ -34,3 +34,5 @@ localStorage.setItem(key, value)
 This basically tells your piece of code only to run when it's in the client environment where it can access `window`.
 
 Keep hacking.
+
+Originally published at [dev.to](https://dev.to/dendekky/handling-authentication-in-nextjs-5gd0)
