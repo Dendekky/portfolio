@@ -65,9 +65,9 @@ const HomePageTemplate = ({
                 style={{ transform: props.xys.interpolate(trans) }}
               />
               <div className='content column is-6'>
-                <h3 className='has-text-weight-semibold is-size-2 has-text-white'>
+                {/* <h3 className='has-text-weight-semibold is-size-2 has-text-white'>
                   {heading}
-                </h3>
+                </h3> */}
                 {/* <div className='trails-main' onClick={() => setToggle(state => !state)}>
                   <div>
                     {trail.map(({ x, height, ...rest }, index) => (

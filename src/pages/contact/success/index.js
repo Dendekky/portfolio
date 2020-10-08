@@ -4,10 +4,10 @@ import Layout from '../../../components/Layout'
 const SuccessPage = () => {
   return (
     <Layout>
-      <section className='hero is-primary is-bold is-large'>
+      <section className='hero is-bold is-large'>
         <div className='hero-body has-text-centered'>
-          <h1 className='title'>
-            Success
+          <h1 className='title has-text-white'>
+            Success 👌
           </h1>
         </div>
       </section>
