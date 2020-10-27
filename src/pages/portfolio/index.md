@@ -5,7 +5,7 @@ meta_title: Portfolio | Dendekky
 meta_description: >-
   Some of the projects worked on by Ibrahim Adeniyi
 projects:
-    - image: /img/coffee.png
+    - image: /img/undraw_secure_login_pdn4.png
       text: >
         Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc finibus 
         sem a sem ultrices, eget sagittis magna tempor. Quisque pulvinar lorem 
@@ -18,7 +18,7 @@ projects:
         Nullam et dui interdum, varius nibh eu, efficitur metus.
       previewLink: https://google.com
       sourceCode: https://google.com
-    - image: /img/coffee-gear.png
+    - image: /img/undraw_secure_login_pdn4.png
       text: >
         Fusce semper turpis sed tortor consectetur condimentum. Nulla facilisi. Nam 
         ipsum nulla, dapibus eu mi non, commodo commodo sapien. Pellentesque luctus 
@@ -31,7 +31,7 @@ projects:
         Sed eget ornare orci, quis dignissim nulla. Pellentesque aliquam consectetur congue.
       previewLink: https://google.com
       sourceCode: https://google.com
-    - image: /img/tutorials.png
+    - image: /img/undraw_secure_login_pdn4.png
       text: >
         Sed in consequat leo, sit amet ullamcorper lacus. Duis lacinia, metus vitae sollicitudin 
         pharetra, ipsum augue tristique urna, in rhoncus quam tortor eget sem. Maecenas eu 
@@ -43,7 +43,7 @@ projects:
         quam augue pretium erat, at commodo nisl tellus non risus.
       previewLink: https://google.com
       sourceCode: https://google.com
-    - image: /img/meeting-space.png
+    - image: /img/undraw_secure_login_pdn4.png
       text: >
         Vestibulum libero lectus, dignissim eget magna sit amet, malesuada tincidunt mi. Vivamus 
         sed erat iaculis mauris efficitur vehicula. Aliquam sed urna at tellus ullamcorper 
