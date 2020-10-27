@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 import Projects from '../Portfolio'
 import PropTypes from 'prop-types'
 
-const PricingPageTemplate = ({
+const PortfolioPageTemplate = ({
   title,
   meta_title,
   meta_description,
@@ -37,7 +37,6 @@ const PricingPageTemplate = ({
             {portfolio.heading}
           </h2>
           <p className='is-size-5'>{portfolio.description}</p>
-          {/* <Pricing data={pricing.plans} /> */}
           <Projects gridItems={projects} />
         </div>
       </div>
@@ -45,7 +44,7 @@ const PricingPageTemplate = ({
   </div>
 )
 
-PricingPageTemplate.propTypes = {
+PortfolioPageTemplate.propTypes = {
   title: PropTypes.string,
   meta_title: PropTypes.string,
   meta_description: PropTypes.string,
@@ -56,4 +55,4 @@ PricingPageTemplate.propTypes = {
   }),
 }
 
-export default PricingPageTemplate
+export default PortfolioPageTemplate
