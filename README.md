@@ -4,7 +4,7 @@ A [Gatsby v2](https://www.gatsbyjs.org/) and [Netlify CMS](https://www.netlifycm
 It follows the [JAMstack architecture](https://jamstack.org) by using Git as a single source of truth, and [Netlify](https://www.netlify.com) for continuous deployment, and CDN distribution.
 
 ## URL
-[dendekky.me](https://dendekky.netlify.app)
+[dendekky.netlify.app](https://dendekky.netlify.app)
 
 ## Features
 * Home Page, About Page,Contact Page and Blog
@@ -14,8 +14,8 @@ It follows the [JAMstack architecture](https://jamstack.org) by using Git as a s
 * Progressive Web App & Offline Support
 * Tags and RSS Feed for Blog
 * Disqus and Share Support
-* Elastic-Lunr Search (NEW)
-* Pagination (NEW)
+* Elastic-Lunr Search
+* Pagination
 * Contact Form (Netlify Forms)
 * Easy Configuration using `config.js` file
 
