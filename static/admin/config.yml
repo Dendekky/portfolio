@@ -31,7 +31,7 @@ collections:
           - {label: "Body", name: "body", widget: "markdown"}
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
-      - file: "src/pages/pricing/index.md"
+      - file: "src/pages/portfolio/index.md"
         label: "Portfolio Page"
         name: "portfolio"
         fields:
