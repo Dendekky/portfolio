@@ -35,9 +35,52 @@ collections:
         fields:
           - {label: "Template Key", name: "templateKey", widget: "hidden", default: "portfolio-page"}
           - {label: Title, name: title, widget: string}
-          # - {label: Image, name: image, widget: image}
-          - {label: Portfolio, name: portfolio, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
-          - {label: All Projects, name: projects, widget: list, fields: [{label: Project Description, name: text, widget: string}, {label: Project Image, name: image, widget: image}, {label: Preview Link, name: previewLink, widget: string}, {label: Source Code, name: sourceCode, widget: string}]}
+          - {
+              label: Portfolio, 
+              name: portfolio,
+              widget: object, 
+              fields: [
+                {
+                  label: Heading, 
+                  name: heading, 
+                  widget: string
+                }, 
+                {
+                  label: Description, 
+                  name: description, 
+                  widget: string
+                },
+              ]
+            }
+          - {
+              label: All Projects, 
+              name: projects, 
+              widget: list, 
+              fields: [
+                {
+                  label: Project Description, 
+                  name: text, 
+                  widget: string
+                }, 
+                {
+                  label: Project Image, 
+                  name: image, 
+                  widget: image
+                },
+                {
+                  label: Preview Link, 
+                  name: previewLink, 
+                  widget: string,
+                  required: false
+                },
+                {
+                  label: Source Code,
+                  name: sourceCode,
+                  widget: string,
+                  required: false
+                }
+              ]
+            }
           - {label: "Meta Title", name: "meta_title", widget: "string"}
           - {label: "Meta Description", name: "meta_description", widget: "text"}
       - file: "src/pages/contact/index.md"
