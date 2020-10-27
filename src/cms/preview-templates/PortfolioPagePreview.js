@@ -4,9 +4,11 @@ import PortfolioPageTemplate from '../../components/PortfolioPageTemplate'
 
 const PricingPagePreivew = ({ entry, getAsset }) => {
   const entryPricingPlans = entry.getIn(['data', 'pricing', 'plans'])
-  const pricingPlans = entryPricingPlans ? entryPricingPlans.toJS() : []
+  console.log(entryPricingPlans)
+  // const pricingPlans = entryPricingPlans ? entryPricingPlans.toJS() : []
 
   const entryProjects = entry.getIn(['data', 'projects'])
+  console.log('new', entryProjects)
   const projects = entryProjects ? entryProjects.toJS() : []
 
   return (
@@ -17,7 +19,7 @@ const PricingPagePreivew = ({ entry, getAsset }) => {
       portfolio={{
         heading: entry.getIn(['data', 'portfolio', 'heading']),
         description: entry.getIn(['data', 'portfolio', 'description']),
-        plans: pricingPlans,
+        // plans: pricingPlans,
       }}
       projects={projects}
     />
