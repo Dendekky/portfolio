@@ -2,11 +2,8 @@
 templateKey: portfolio-page
 title: Portfolio
 portfolio:
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-    porta justo justo,  non semper odio cursus in. Curabitur ligula tortor,
-    tristique non odio nec, imperdiet  mattis leo. Vivamus aliquam rhoncus
-    tortor vitae convallis. Aliquam non dui nibh. Nam  a velit at enim sagittis
-    pellentesque.
+  description: Below are some of the projects I have worked on either individually
+    or in a team.
   heading: Portfolio
   plans:
     - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
@@ -45,9 +42,10 @@ projects:
     previewLink: https://foodlocker.africa
     sourceCode: " "
   - image: /img/screenshot_2020-10-09-home.png
-    text: "A content management system web app. Built with React, Nextjs, and
-      shards-UI, it provides the robust functionality of an SPA while providing
-      SEO benefits as a result of SSR. "
+    text: A content management system web app. Built with React, Nextjs, and
+      shards-UI on the client, it provides the robust functionality of an SPA
+      while providing SEO benefits as a result of SSR. The server is built with
+      Express.js
     previewLink: https://marblesofhameedah.rocks/
     sourceCode: https://github.com/Dendekky/dendekky-cms
   - image: /img/screenshot-2-.png
@@ -55,6 +53,11 @@ projects:
       it is up.
     previewLink: https://www.npmjs.com/package/runweb
     sourceCode: https://github.com/Dendekky/runweb-cli-tool
+  - text: "An event booking web app with CRUD functionalities. React frontend
+      coupled with Express.js backend "
+    image: /img/screenshot_2020-10-27-react-app.png
+    previewLink: https://intell-conference.netlify.app/
+    sourceCode: https://github.com/Dendekky/intell-inn-conference
 meta_title: Portfolio | Dendekky
 meta_description: Some of the projects worked on by Ibrahim Adeniyi
 ---
