@@ -1,7 +1,7 @@
 ---
-templateKey: pricing-page
-title: Pricing
-meta_title: Pricing | Gatsby Starter Business
+templateKey: portfolio-page
+title: Portfolio
+meta_title: Portfolio | Gatsby Starter BusinessDendekky
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
