@@ -29,7 +29,7 @@ portfolio:
       price: ??
 projects:
   - image: /img/screenshot_2020-10-11-yahnnova-make-it-better-with-technology.png
-    text: An website for an IT company that leverages on the internet to provide
+    text: A website for an IT company that leverages on the internet to provide
       services that makes living easier. An aesthetically pleasing website with
       React, and Tailwind CSS.
     previewLink: https://yahnnova.com
