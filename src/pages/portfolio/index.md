@@ -33,14 +33,14 @@ projects:
       services that makes living easier. An aesthetically pleasing website with
       React, and Tailwind CSS.
     previewLink: https://yahnnova.com
-    sourceCode: " "
+    sourceCode: ""
   - image: /img/screenshot_2020-08-19-dashboard-foodlocker.png
     text: Worked in a team of 3 at Foodlocker to deliver a production management
       application that upscales the production capacity of smallholder farmers
       while optimizing resources and tracking cost-revenue profile. This robust
       web application was built with React, Reactstrap, Redux, Leaflet...
     previewLink: https://foodlocker.africa
-    sourceCode: " "
+    sourceCode: ""
   - image: /img/screenshot_2020-10-09-home.png
     text: A content management system web app. Built with React, Nextjs, and
       shards-UI on the client, it provides the robust functionality of an SPA
