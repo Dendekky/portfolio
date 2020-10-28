@@ -2,11 +2,8 @@
 templateKey: portfolio-page
 title: Portfolio
 portfolio:
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-    porta justo justo,  non semper odio cursus in. Curabitur ligula tortor,
-    tristique non odio nec, imperdiet  mattis leo. Vivamus aliquam rhoncus
-    tortor vitae convallis. Aliquam non dui nibh. Nam  a velit at enim sagittis
-    pellentesque.
+  description: Below are some of the projects I have worked on either individually
+    or in a team.
   heading: Portfolio
   plans:
     - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
@@ -32,22 +29,23 @@ portfolio:
       price: ??
 projects:
   - image: /img/screenshot_2020-10-11-yahnnova-make-it-better-with-technology.png
-    text: An website for an IT company that leverages on the internet to provide
+    text: A website for an IT company that leverages on the internet to provide
       services that makes living easier. An aesthetically pleasing website with
       React, and Tailwind CSS.
     previewLink: https://yahnnova.com
-    sourceCode: " "
+    sourceCode: ""
   - image: /img/screenshot_2020-08-19-dashboard-foodlocker.png
     text: Worked in a team of 3 at Foodlocker to deliver a production management
       application that upscales the production capacity of smallholder farmers
       while optimizing resources and tracking cost-revenue profile. This robust
       web application was built with React, Reactstrap, Redux, Leaflet...
     previewLink: https://foodlocker.africa
-    sourceCode: " "
+    sourceCode: ""
   - image: /img/screenshot_2020-10-09-home.png
-    text: "A content management system web app. Built with React, Nextjs, and
-      shards-UI, it provides the robust functionality of an SPA while providing
-      SEO benefits as a result of SSR. "
+    text: A content management system web app. Built with React, Nextjs, and
+      shards-UI on the client, it provides the robust functionality of an SPA
+      while providing SEO benefits as a result of SSR. The server is built with
+      Express.js
     previewLink: https://marblesofhameedah.rocks/
     sourceCode: https://github.com/Dendekky/dendekky-cms
   - image: /img/screenshot-2-.png
@@ -55,6 +53,11 @@ projects:
       it is up.
     previewLink: https://www.npmjs.com/package/runweb
     sourceCode: https://github.com/Dendekky/runweb-cli-tool
+  - text: "An event booking web app with CRUD functionalities. React frontend
+      coupled with Express.js backend "
+    image: /img/screenshot_2020-10-27-react-app.png
+    previewLink: https://intell-conference.netlify.app/
+    sourceCode: https://github.com/Dendekky/intell-inn-conference
 meta_title: Portfolio | Dendekky
 meta_description: Some of the projects worked on by Ibrahim Adeniyi
 ---
