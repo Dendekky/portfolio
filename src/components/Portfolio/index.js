@@ -12,8 +12,23 @@ const Projects = ({ gridItems }) => (
           </p>
         </div>
         <div className='buttons are-small'>
-          {item.previewLink ? <a className='button is-outlined is-primary' href={item.previewLink}>View Live</a> : null}
-          {item.sourceCode ? <a className='button' href={item.sourceCode}>Source Code</a> : null}
+          {item.previewLink
+            ? <a
+              target='_blank'
+              rel='noopener noreferrer'
+              className='button is-outlined is-primary'
+              href={item.previewLink}>
+              View Live
+            </a>
+            : null}
+          {item.sourceCode ? <a
+            target='_blank'
+            rel='noopener noreferrer'
+            className='button'
+            href={item.sourceCode}>
+            Source Code
+          </a>
+            : null}
         </div>
       </div>
     ))}

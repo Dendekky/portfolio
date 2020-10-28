@@ -7,6 +7,7 @@ description: "Christopher Nolan once said, \"People want to see something that
   I'm promising. I've been hacking together code snippet for over two years now.
   I've mostly been building fullstack web applications using NodeJS/Express for
   the backend login and React for frontend.  "
+image: /img/screenshot_2020-10-11-yahnnova-make-it-better-with-technology.
 offerings:
   blurbs: []
 testimonials:

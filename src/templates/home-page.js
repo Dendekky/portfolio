@@ -15,8 +15,7 @@ const HomePage = ({ data }) => {
         meta_description={frontmatter.meta_description}
         heading={frontmatter.heading}
         description={frontmatter.description}
-        offerings={frontmatter.offerings}
-        testimonials={frontmatter.testimonials}
+        image={frontmatter.image}
       />
     </Layout>
   )
@@ -41,6 +40,7 @@ export const pageQuery = graphql`
         meta_description
         heading
         description
+        image
       }
     }
   }
