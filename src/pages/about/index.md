@@ -59,6 +59,6 @@ I’d have loved to add that I enjoy fishing trips, surfing and weekend camping 
 
 Generally, I am a simple man who strives for excellence in all I do.
 
-If you are in need of someone to perfect your software system or to help you build one from the ground up, mail me at [adeniyiib360@gmail.com](mailto:adeniyiib360@gmail.com) In the meantime, you can browse through my portfolio [here ](https://dendekky.me/portfolio).
+If you are in need of someone to perfect your software system or to help you build one from the ground up, mail me at [adeniyiib360@gmail.com](mailto:adeniyiib360@gmail.com) In the meantime, you can browse through my portfolio [here ](https://dendekky.netlify.app/portfolio).
 
 <!--EndFragment-->
