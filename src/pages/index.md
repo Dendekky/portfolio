@@ -1,13 +1,7 @@
 ---
 templateKey: home-page
-title: Ibrahim Adeniyi
 heading: "Full Stack Software Developer && Technical Writer "
-description: "Christopher Nolan once said, \"People want to see something that
-  shows them you can do what you say\". I guess this is the tip of that iceberg
-  I'm promising. I've been hacking together code snippet for over two years now.
-  I've mostly been building fullstack web applications using NodeJS/Express for
-  the backend login and React for frontend.  "
-image: /img/screenshot_2020-10-11-yahnnova-make-it-better-with-technology.
+meta_description: The Software Developer from Amuloko
 offerings:
   blurbs: []
 testimonials:
@@ -19,6 +13,12 @@ testimonials:
     quote: Fusce porttitor vulputate enim, nec blandit magna gravida et. Etiam et
       dignissim ligula.  Lorem ipsum dolor sit amet, consectetur adipiscing
       elit.
+title: Ibrahim Adeniyi
+description: "Christopher Nolan once said, \"People want to see something that
+  shows them you can do what you say\". I guess this is my own way of showing
+  you bits and parts of what I can do. I've been hacking together code snippet
+  for over two years now. I've mostly been building fullstack web applications
+  using NodeJS/Express for the backend login and React for frontend.  "
+image: /img/img_20201014_075729_899.jpg
 meta_title: Home | Ibrahim Adeniyi
-meta_description: The Software Developer from Amuloko
 ---
