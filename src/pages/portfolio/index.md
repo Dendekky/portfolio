@@ -2,8 +2,8 @@
 templateKey: portfolio-page
 title: Portfolio
 portfolio:
-  description: Below are some of the projects I have worked on either individually
-    or in a team.
+  description: Below are some of the projects I have worked on either as an
+    individual or in a team.
   heading: Portfolio
   plans:
     - description: Nulla faucibus, leo a condimentum aliquam, libero leo vehicula arcu
@@ -58,6 +58,14 @@ projects:
     image: /img/screenshot_2020-10-27-react-app.png
     previewLink: https://intell-conference.netlify.app/
     sourceCode: https://github.com/Dendekky/intell-inn-conference
+  - text: A mobile application to read the content of a blog. The application is
+      built with React native.
+    image: /img/screenshot_20201103-220734.png
+    sourceCode: https://github.com/Dendekky/native-blog-app
+  - text: A Whatsapp bot. Built with Twilio, and Google Custom Search API, it
+      performs a list of features best experienced firsthand
+    sourceCode: https://github.com/Dendekky/StockNewsBot
+    image: /img/alex-knight-2ejcsulrwc8-unsplash.jpg
 meta_title: Portfolio | Dendekky
 meta_description: Some of the projects worked on by Ibrahim Adeniyi
 ---
