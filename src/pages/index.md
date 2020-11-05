@@ -19,6 +19,6 @@ description: "Christopher Nolan once said, \"People want to see something that
   you bits and parts of what I can do. I've been hacking together code snippet
   for over two years now. I've mostly been building fullstack web applications
   using NodeJS/Express for the backend login and React for frontend.  "
-image: /img/img_20201014_075729_899.jpg
+image: /img/img-20201103-wa0072.jpg
 meta_title: Home | Ibrahim Adeniyi
 ---
