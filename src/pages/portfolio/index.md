@@ -42,10 +42,10 @@ projects:
     previewLink: https://foodlocker.africa
     sourceCode: ""
   - image: /img/screenshot_2020-10-09-home.png
-    text: A content management system web app. Built with React, Nextjs, and
-      shards-UI on the client, it provides the robust functionality of an SPA
-      while providing SEO benefits as a result of SSR. The server is built with
-      Express.js
+    text: A content management system web app. The server is built with Express.js,
+      and mongoDB. Built with React, Nextjs, and shards-UI on the client, it
+      provides the robust functionality of an SPA while providing SEO benefits
+      as a result of SSR. Cloudinary was used to manage media files.
     previewLink: https://marblesofhameedah.rocks/
     sourceCode: https://github.com/Dendekky/dendekky-cms
   - image: /img/screenshot-2-.png
