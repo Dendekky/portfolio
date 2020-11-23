@@ -45,7 +45,7 @@ projects:
     text: A content management system web app. Built with React, Nextjs, and
       shards-UI on the client, it provides the robust functionality of an SPA
       while providing SEO benefits as a result of SSR. The server is built with
-      Express.js
+      Express.js, and mongoDB. Cloudinary was used to manage media files.
     previewLink: https://marblesofhameedah.rocks/
     sourceCode: https://github.com/Dendekky/dendekky-cms
   - image: /img/screenshot-2-.png
