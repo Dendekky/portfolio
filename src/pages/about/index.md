@@ -20,9 +20,12 @@ I am a Fullstack developer meaning, I’ve got my clients covered with wonderful
 
 ###### CAREER
 
-Presently, I work as a Frontend Developer with an Agri-business startup - Foodlocker Limited - operating in Ibadan, Nigeria.
+Presently, I work remotely as a Software Engineer with an Edtech startup headquartered in Moscow; Conectar LLC.
 
-Before joining Foodlocker, I worked contract jobs as a Fullstack developer and helped to found Piocode; a peer-to-peer learning community of students.
+In my time here, I have perfected the platform’s whiteboard tool to handle functionalities like file upload, sticky notes, text, shapes etc. while transmitting actions across to other users using websocket. I have also worked on the authentication system amongst other features.
+
+Prior to Conectar, I worked both full-time & on contract basis with about 5 startups, the most recent role being a Frontend Developer at Foodlocker Ltd, a Nigerian Agribusiness startup. 
+I also helped to found Piocode; a peer-to-peer learning community of students.
 
 In my work, I develop web applications from design and implementation to testing and development. I ensure written code meet industry standards by ensuring proper practices like version control and documentation.
 
